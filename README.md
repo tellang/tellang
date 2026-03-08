@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+→+AI%2FML+Engineer;LLM+Fine-tuning+%7C+RAG+%7C+vLLM+Serving;Building+Domain-Specific+AI+Products&font=JetBrains+Mono&center=true&width=550&height=50&color=A78BFA&vCenter=true&pause=1000&size=22&duration=2500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%E2%86%92+AI%2FML+Engineer;LLM+Fine-tuning+%7C+RAG+%7C+vLLM+Serving;Building+Domain-Specific+AI+Products&font=JetBrains+Mono&center=true&width=550&height=50&color=A78BFA&vCenter=true&pause=1000&size=22&duration=2500" alt="Typing SVG" />
 </a>
 
 <br>
@@ -56,7 +56,7 @@
 <table>
 <tr>
 <td align="center" width="50%">
-<a href="https://github.com/tellang/yeji-core"><b>YEJI — Fortune LLM</b></a><br>
+<a href="https://github.com/yeji-service"><b>YEJI — Fortune LLM</b></a><br>
 <sub>동양+서양 융합 AI 운세 서비스 · 7개 리포</sub><br><br>
 Qwen3 파인튜닝 (5 PEFT 기법, v1~v9)<br>
 vLLM 서빙 · AWQ 양자화 (16→5.5GB, <b>-65%</b>)<br>
@@ -76,7 +76,7 @@ SSE 스트리밍 · Cloudflare Tunnel<br>
 </tr>
 <tr>
 <td align="center" width="50%">
-<b>MyEat (YYCH)</b> <img src="https://img.shields.io/badge/우수상-FF6B35?style=flat-square" /><br>
+<a href="https://github.com/yumyum-labs"><b>MyEat</b></a> <img src="https://img.shields.io/badge/우수상-FF6B35?style=flat-square" /><br>
 <sub>MBTI 기반 AI 영양 코칭 · SSAFY 관통프로젝트</sub><br><br>
 Redis Vector Search 2단계 RAG (<b>180K+ 음식 DB</b>)<br>
 GPT-5 Mini Intent Filter + Embedding Cache<br>
