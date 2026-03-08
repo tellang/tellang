@@ -133,7 +133,7 @@ Data Collection → Preprocessing → SFT (v1~v9) → DPO/SimPO → Quantization
 <div align="center">
 
 <a href="mailto:pte1024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="https://discordapp.com/users/tellang"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://discord.com/users/tellang"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
 <a href="https://solved.ac/tellang"><img src="https://img.shields.io/badge/solved.ac-17CE3A?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIgZmlsbD0id2hpdGUiLz48L3N2Zz4=&logoColor=white" /></a>
 
 </div>
