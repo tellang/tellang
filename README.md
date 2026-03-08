@@ -81,30 +81,43 @@ Data Collection → Preprocessing → SFT (v1~v9) → DPO/SimPO → Quantization
 | Period | Role | Organization | Domain |
 |--------|------|-------------|--------|
 | **2025 ~** | **AI/ML Engineer** | SSAFY AI Track | LLM Fine-tuning, RAG, vLLM |
-| prev. | Backend Developer | — | Spring Boot, MSA, API Design |
 
 ---
 
 <details open>
 <summary><h3>Featured Projects</h3></summary>
+<br>
 
-<a href="https://github.com/tellang/triflux">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tellang&repo=triflux&theme=tokyonight&bg_color=1F222E&title_color=A78BFA&hide_border=true&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/tellang/digital-fidget-spinner">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tellang&repo=digital-fidget-spinner&theme=tokyonight&bg_color=1F222E&title_color=A78BFA&hide_border=true&icon_color=A78BFA" />
-</a>
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/tellang/triflux"><b>🔀 triflux</b></a><br>
+<sub>AI CLI Orchestrator — Claude × Codex × Gemini</sub><br><br>
+<img src="https://img.shields.io/github/stars/tellang/triflux?style=flat-square&color=A78BFA&labelColor=1F222E" />
+<img src="https://img.shields.io/github/forks/tellang/triflux?style=flat-square&color=1F222E&labelColor=1F222E" />
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/tellang/digital-fidget-spinner"><b>🎡 digital-fidget-spinner</b></a><br>
+<sub>Interactive Browser Fidget Spinner</sub><br><br>
+<img src="https://img.shields.io/github/stars/tellang/digital-fidget-spinner?style=flat-square&color=A78BFA&labelColor=1F222E" />
+<img src="https://img.shields.io/github/forks/tellang/digital-fidget-spinner?style=flat-square&color=1F222E&labelColor=1F222E" />
+</td>
+</tr>
+</table>
 
-<!-- 아래 레포는 public 전환 후 주석 해제
-<a href="https://github.com/tellang/yeji-core">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tellang&repo=yeji-core&theme=tokyonight&bg_color=1F222E&title_color=A78BFA&hide_border=true&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/tellang/inference-time-reasoning">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tellang&repo=inference-time-reasoning&theme=tokyonight&bg_color=1F222E&title_color=A78BFA&hide_border=true&icon_color=A78BFA" />
-</a>
-<a href="https://github.com/tellang/live-transcriber">
-  <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=tellang&repo=live-transcriber&theme=tokyonight&bg_color=1F222E&title_color=A78BFA&hide_border=true&icon_color=A78BFA" />
-</a>
+<!-- public 전환 후 추가:
+<table>
+<tr>
+<td align="center" width="50%">
+<a href="https://github.com/tellang/yeji-core"><b>🔮 yeji-core</b></a><br>
+<sub>Spring + FastAPI LLM 서비스 플랫폼</sub>
+</td>
+<td align="center" width="50%">
+<a href="https://github.com/tellang/live-transcriber"><b>🎤 live-transcriber</b></a><br>
+<sub>faster-whisper + CUDA 실시간 STT</sub>
+</td>
+</tr>
+</table>
 -->
 
 </details>
