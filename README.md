@@ -20,7 +20,7 @@
 
 ### About Me
 
-- **Backend → AI/ML Engineer** | SSAFY 14기 AI 트랙
+- **Backend → AI/ML Engineer** | SSAFY 14기 서울 Java 전공
 - 도메인 특화 LLM 파인튜닝부터 프로덕션 서빙까지 **End-to-End** 경험
 - **Interests**: `LLM Fine-tuning` · `RAG` · `vLLM` · `Prompt Engineering` · `Data Pipeline`
 
@@ -79,8 +79,8 @@ SSE 스트리밍 · Cloudflare Tunnel<br>
 </tr>
 <tr>
 <td align="center" width="50%">
-<b>🍽 MyEat (YYCH)</b><br>
-<sub>MBTI 기반 AI 영양 코칭 · SSAFY 팀 프로젝트</sub><br><br>
+<b>🍽 MyEat (YYCH)</b> <img src="https://img.shields.io/badge/🏆_우수상-FF6B35?style=flat-square" /><br>
+<sub>MBTI 기반 AI 영양 코칭 · SSAFY 관통프로젝트</sub><br><br>
 Redis Vector Search 2단계 RAG (45K+ 음식 DB)<br>
 GPT-5 Mini Intent Filter + Embedding Cache<br>
 16개 MBTI 페르소나 · CoT 응답 생성<br>
@@ -132,7 +132,7 @@ DAG 기반 병렬 실행 엔진<br>
 | Period | Role | Focus |
 |--------|------|-------|
 | **2024** | Backend Developer | Spring Boot, MSA, Kafka, Redis |
-| **2025 ~** | **AI/ML Engineer** | SSAFY AI 트랙 · LLM Fine-tuning, RAG, vLLM |
+| **2025.07 ~** | **AI/ML Engineer** | SSAFY 14기 서울 Java 전공 · LLM, RAG, vLLM |
 
 ---
 
