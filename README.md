@@ -18,13 +18,21 @@
 
 ---
 
+<div align="center">
+
 ### About Me
 
-- **Backend → AI/ML Engineer** · SSAFY 14기 서울 Java 전공 (2025.07 ~)
-- 도메인 특화 LLM 파인튜닝부터 프로덕션 서빙까지 **End-to-End** 구현
-- **Interests**: `LLM Fine-tuning` · `RAG` · `vLLM Serving` · `Prompt Engineering` · `Data Pipeline`
+**Backend → AI/ML Engineer** · SSAFY 14기 서울 Java 전공 (2025.07 ~)
+<br>
+도메인 특화 LLM 파인튜닝부터 프로덕션 서빙까지 **End-to-End** 구현
+<br>
+`LLM Fine-tuning` · `RAG` · `vLLM Serving` · `Prompt Engineering` · `Data Pipeline`
+
+</div>
 
 ---
+
+<div align="center">
 
 ### Career Journey
 
@@ -33,27 +41,37 @@
 | **2024** | **Backend Developer** | Java/Spring Boot 기반 MSA, Kafka, Redis 고성능 시스템 설계 |
 | **2025.07 ~** | **AI/ML Engineer** | SSAFY 14기 서울 · LLM 정렬(SFT/DPO), 도메인 특화 RAG 및 vLLM 최적화 |
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Tech Stack
 
 **AI / ML**
-
+<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
 
 **Backend**
-
+<br>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
 **Infra / DevOps**
-
+<br>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
+</div>
 
 ---
 
+<div align="center">
+
 ### Featured Projects
 
-<table>
+</div>
+
+<table align="center">
 <tr>
 <td align="center" width="50%">
 <a href="https://github.com/yeji-service"><b>YEJI — Fortune LLM</b></a><br>
@@ -99,9 +117,12 @@ DAG 기반 병렬 실행 엔진<br>
 
 ---
 
+<div align="center">
+
 ### HuggingFace Activity
 
 **50 Repositories** (Private 포함) · **700+ Total Downloads**
+<br>
 Qwen3 기반 도메인 특화 모델 및 고품질 한국어 데이터셋 구축
 
 | Category | Count | Highlights |
@@ -123,6 +144,8 @@ Qwen3 기반 도메인 특화 모델 및 고품질 한국어 데이터셋 구축
 [**yeji-bazi-translated-ko**](https://huggingface.co/datasets/tellang/yeji-bazi-translated-ko): **262,980건** 중한 번역 코퍼스 (사주/명리학 특화)
 
 [![HuggingFace](https://img.shields.io/badge/All_Models_&_Datasets-tellang-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/tellang)
+
+</div>
 
 ---
 
