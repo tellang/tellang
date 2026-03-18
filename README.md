@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer+%E2%86%92+AI%2FML+Engineer;LLM+Fine-tuning+%7C+RAG+%7C+vLLM+Serving;Building+Domain-Specific+AI+Products&font=JetBrains+Mono&center=true&width=550&height=50&color=A78BFA&vCenter=true&pause=1000&size=22&duration=2500" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%9C%93+I'm+not+a+bot;I+train+them.&font=JetBrains+Mono&center=true&width=550&height=50&color=A78BFA&vCenter=true&pause=1500&size=24&duration=2000" alt="Typing SVG" />
 </a>
 
 <br>
@@ -22,24 +22,11 @@
 
 ### About Me
 
-**Backend → AI/ML Engineer** · SSAFY 14기 서울 Java 전공 (2025.07 ~)
+**Backend Developer (2024)** → **AI/ML Engineer (2025~)**
 <br>
-도메인 특화 LLM 파인튜닝부터 프로덕션 서빙까지 **End-to-End** 구현
+SSAFY 14기 서울 · 도메인 특화 LLM 파인튜닝부터 프로덕션 서빙까지 **End-to-End** 구현
 <br>
 `LLM Fine-tuning` · `RAG` · `vLLM Serving` · `Prompt Engineering` · `Data Pipeline`
-
-</div>
-
----
-
-<div align="center">
-
-### Career Journey
-
-| Period | Role | Focus |
-|:---|:---|:---|
-| **2024** | **Backend Developer** | Java/Spring Boot 기반 MSA, Kafka, Redis 고성능 시스템 설계 |
-| **2025.07 ~** | **AI/ML Engineer** | SSAFY 14기 서울 · LLM 정렬(SFT/DPO), 도메인 특화 RAG 및 vLLM 최적화 |
 
 </div>
 
@@ -83,7 +70,7 @@ Jenkins CI/CD · 4대 GPU 통합 인프라<br>
 <sub><code>FastAPI</code> <code>vLLM</code> <code>Qwen3</code> <code>Spring Boot</code></sub>
 </td>
 <td align="center" width="50%">
-<a href="https://github.com/tellang/speaky"><b>Speaky — AI Character</b></a><br>
+<a href="https://github.com/tellang/speaki"><b>Speaki — AI Character</b></a><br>
 <sub>AI 캐릭터 운세 챗봇 · M2 MacBook 배포</sub><br><br>
 SFT + DPO + SimPO 3단계 정렬 학습<br>
 6캐릭터 페르소나 · D1-D8 평가 (4.12/5.00)<br>
@@ -121,29 +108,15 @@ DAG 기반 병렬 실행 엔진<br>
 
 ### HuggingFace Activity
 
-**50 Repositories** (Private 포함) · **700+ Total Downloads**
+**17 Models** · **25 Datasets** · **700+ Downloads**
 <br>
-Qwen3 기반 도메인 특화 모델 및 고품질 한국어 데이터셋 구축
+Qwen3 도메인 특화 모델 · **262K+** 한국어 코퍼스 · AWQ/GGUF/MLX 양자화
 
-| Category | Count | Highlights |
-|:---|:---:|:---|
-| **Models** | 17 | Qwen3 4B/8B, v1~v9, AWQ/GGUF/MLX Quantized |
-| **Datasets** | 25 | **260K+** 중한 번역 코퍼스, SFT/DPO/SimPO 전용 데이터 |
-| **Spaces** | 1 | yeji-captcha |
+[**yeji-4b-instruct-v9-AWQ**](https://huggingface.co/tellang/yeji-4b-instruct-v9-AWQ) — 최다 다운로드 (123) · 3.2 GB · Qwen3 AWQ 양자화
+<br>
+[**yeji-bazi-translated-ko**](https://huggingface.co/datasets/tellang/yeji-bazi-translated-ko) — **262,980건** 중한 번역 코퍼스 (사주/명리학 특화)
 
-#### Representative Models (Top 3)
-
-| Model | Downloads | Size | Tags |
-|:---|:---:|:---:|:---|
-| [**yeji-4b-instruct-v9-AWQ**](https://huggingface.co/tellang/yeji-4b-instruct-v9-AWQ) | 123 | 3.2 GB | Qwen3, AWQ, Fortune-telling |
-| [**yeji-8b-rslora-v7**](https://huggingface.co/tellang/yeji-8b-rslora-v7) | 90 | 15.3 GB | Qwen3, rsLoRA, High-Precision |
-| [**yeji-8b-rslora-v7-AWQ**](https://huggingface.co/tellang/yeji-8b-rslora-v7-AWQ) | 67 | 5.7 GB | Qwen3, AWQ, Optimized |
-
-#### Featured Dataset
-
-[**yeji-bazi-translated-ko**](https://huggingface.co/datasets/tellang/yeji-bazi-translated-ko): **262,980건** 중한 번역 코퍼스 (사주/명리학 특화)
-
-[![HuggingFace](https://img.shields.io/badge/All_Models_&_Datasets-tellang-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/tellang)
+[![HuggingFace](https://img.shields.io/badge/See_All_→_tellang-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/tellang)
 
 </div>
 
@@ -153,23 +126,6 @@ Qwen3 기반 도메인 특화 모델 및 고품질 한국어 데이터셋 구축
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tellang&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br>
-
-<table align="center">
-<tr>
-<td align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=tellang&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=A78BFA&icon_color=A78BFA&include_all_commits=true" height="170" alt="GitHub Stats" />
-</td>
-<td align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tellang&layout=compact&theme=tokyonight&hide_border=true&bg_color=1F222E&title_color=A78BFA&hide=html,css&langs_count=8" height="170" alt="Top Langs" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=tellang&theme=tokyonight&background=1F222E&hide_border=true&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="Streak Stats" />
 </div>
 
 ---
